@@ -1,0 +1,25 @@
+
+  {
+    "Success" : {
+       "gate_pass_detail" : {
+         GatePass_No: '345678',
+         Status: 'Pending',
+         Applied_Date: '2019-02-01T00:00:00',
+         Visitor_Name: 'Saiba Kumar Murmu',
+         Visitor_Image: '',
+         Visitor_Id_Proof_Image: '',
+         Organization: 'NTSPL',
+         Visit_Type: fasle,
+         Mobile: '9658983376',
+         From_Date: '2019-02-01T00:00:00',
+         To_Date: '2019-02-02T00:00:00',
+         Address: 'Bhubaneswar, Odisha',
+         Id_Type: 'Voter ID Card',
+         Id_Number: '1234567',
+         Is_Gate_Pass_Generated: false,
+         Is_RFID_Generated: false,
+         Remark: ''
+      } 
+ 
+  }
+ }
